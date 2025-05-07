@@ -113,6 +113,8 @@ We used the following metrics to evaluate predictions:
 ## 📊 Visual Insights
 
 > *(Add plots generated from the notebook such as below)*
+> <img width="915" alt="Screenshot 2025-04-11 at 3 08 10 AM" src="https://github.com/user-attachments/assets/71fb373c-0b9e-41d7-8358-65ba91ea5d9d" />
+
 
 - Time series before and after differencing
 - ACF/PACF plots
