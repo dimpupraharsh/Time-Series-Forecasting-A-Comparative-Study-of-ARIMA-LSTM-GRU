@@ -117,6 +117,19 @@ We used the following metrics to evaluate predictions:
  <img width="1003" alt="Screenshot 2025-04-11 at 3 31 27 AM" src="https://github.com/user-attachments/assets/840e8f10-ed1a-497c-ab2b-942aefe39aca" />
  <img width="996" alt="Screenshot 2025-04-11 at 3 31 53 AM" src="https://github.com/user-attachments/assets/9ae50595-7b87-4b4d-a4c1-a367865e2907" />
  <img width="1014" alt="Screenshot 2025-04-11 at 3 39 27 AM" src="https://github.com/user-attachments/assets/65cf0173-f7d8-410b-9936-c071163cf686" />
+ <img width="1010" alt="Screenshot 2025-04-11 at 4 30 51 AM" src="https://github.com/user-attachments/assets/9f044548-a24a-437f-9de7-64db659f63c9" />
+ <img width="1004" alt="Screenshot 2025-04-11 at 4 31 14 AM" src="https://github.com/user-attachments/assets/ce729ebd-0869-41e1-bb2d-8f95cccaa695" />
+ <img width="1009" alt="Screenshot 2025-04-11 at 4 49 22 AM" src="https://github.com/user-attachments/assets/b8d4c65b-ce6c-487d-be7d-1e5cd7eac23d" />
+ <img width="1018" alt="Screenshot 2025-04-11 at 4 54 08 AM" src="https://github.com/user-attachments/assets/3eaf5699-736d-4bf5-a7c3-ddfed09d5a87" />
+ <img width="998" alt="Screenshot 2025-04-11 at 4 58 56 AM" src="https://github.com/user-attachments/assets/e1f2f5d1-32b1-4d3e-80f1-1a041b4c7620" />
+ <img width="1010" alt="Screenshot 2025-04-11 at 4 59 21 AM" src="https://github.com/user-attachments/assets/d6e15dd9-8f63-401a-b686-0666389e50dd" />
+ <img width="922" alt="Screenshot 2025-04-11 at 5 04 05 AM" src="https://github.com/user-attachments/assets/fba50417-7788-4065-8277-3fda84c7d146" />
+ <img width="1015" alt="Screenshot 2025-04-11 at 5 04 15 AM" src="https://github.com/user-attachments/assets/995ef3a7-c3e7-456c-b6e8-c9af6bb553cf" />
+
+
+
+
+
 
 
  
