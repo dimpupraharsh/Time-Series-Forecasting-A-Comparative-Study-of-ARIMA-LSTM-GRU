@@ -46,7 +46,7 @@ This project investigates how these approaches perform under different data char
 ## 📊 Datasets Description
 
 ### 1. Johnson & Johnson Quarterly Earnings
-- Source: Built-in R dataset
+- Source: Yahoo Finance 
 - Period: 1960 to 1980
 - Frequency: Quarterly
 - Characteristics: Smooth trend, seasonality, stable
