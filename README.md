@@ -112,8 +112,16 @@ We used the following metrics to evaluate predictions:
 
 ## 📊 Visual Insights
 
-> *(Add plots generated from the notebook such as below)*
 > <img width="915" alt="Screenshot 2025-04-11 at 3 08 10 AM" src="https://github.com/user-attachments/assets/71fb373c-0b9e-41d7-8358-65ba91ea5d9d" />
+ <img width="992" alt="Screenshot 2025-04-11 at 3 13 58 AM" src="https://github.com/user-attachments/assets/795d00ed-7461-4046-aec1-3390bdc7199c" />
+ <img width="1003" alt="Screenshot 2025-04-11 at 3 31 27 AM" src="https://github.com/user-attachments/assets/840e8f10-ed1a-497c-ab2b-942aefe39aca" />
+ <img width="996" alt="Screenshot 2025-04-11 at 3 31 53 AM" src="https://github.com/user-attachments/assets/9ae50595-7b87-4b4d-a4c1-a367865e2907" />
+ <img width="1014" alt="Screenshot 2025-04-11 at 3 39 27 AM" src="https://github.com/user-attachments/assets/65cf0173-f7d8-410b-9936-c071163cf686" />
+
+
+ 
+
+
 
 
 - Time series before and after differencing
